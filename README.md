@@ -16,7 +16,7 @@ npm install
 
 # React Modules
 The Chat application is based on the folowing modules:
-- chatengine.io, which is the web application that will manage the chat group/room and users
+- [chatengine.io](https://chatengine.io/), which is the web application that will manage the chat group/room and users
 - React-chat-engine, is the react module to manage and render all the chat components. Here is the link to the [documentation](https://www.npmjs.com/package/react-chat-engine).
 
 # Chat Deployment
